@@ -1,5 +1,5 @@
 //to change the limit to the number of animals on the screen change the num value
-let num = 6;
+let num = 8;
 let p = [];
 let i = 0;
 let animals;
